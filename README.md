@@ -168,7 +168,7 @@ They are identified using the [ISO 3166-1](https://en.wikipedia.org/wiki/ISO_316
 * Iceland (is)
 * India (in)
 * Indonesia (id)
-* Iran (go)
+* Iran (ir)
 * Iraq (iq)
 * Ireland (ie)
 * Isle of Man (im)
